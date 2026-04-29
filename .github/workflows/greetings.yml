@@ -2,6 +2,7 @@ name: Greetings
 # https://github.com/marketplace/actions/first-interaction
 
 on: [issues] # pull_request
+
 permissions:
   issues: write
   pull_requests: write
